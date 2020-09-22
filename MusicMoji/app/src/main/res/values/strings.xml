@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicMoji</string>
+
+    <string name="connect_now">Connect with Spotify</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="instructions">Use the navigation bar to navigate. \n \n
+        Server Songs contains some preloaded songs. \n \n
+    Your Spotify Playlist contains songs loaded from your recent Spotify playlist history. \n \n
+    Settings allows you to change the lyric language. \n \n
+    The default is the language of the original song, unless otherwise chosen. \n \n
+    Use the Search Icon on the toolbar to search all Spotify songs. </string>
+    <string name="welcome">Welcome to MusicMoji!</string>
+
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+
+    <string name="serverSongs">Server Songs</string>
+    <string name="your_spotify_playlist">Your Spotify Playlist</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+
+    <string name="time">0:00</string>
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_artist">Artist</string>
+    <string name="placeholder_lyrics">&lt;lyrics></string>
+    <string name="language">Language</string>
+
+
+</resources>
