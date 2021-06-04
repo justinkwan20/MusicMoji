@@ -32,9 +32,10 @@ Our Android application is designed to have the user experience music in a diffe
 * Feel free to use our app at your next Karaoke night
 
 <p float="left">
-  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/titleScreen.png" width="20%" />
-  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/example%20copy.png" width="20%" /> 
-  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/languageNew.png" width="20%" />
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/titleScreen.png" width="25%" />
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/Description2.png" width="25%" /> 
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/languageNew2.png" width="25%" />
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/example2.png" width="25%" />
 </p>
 
 ## 📲 Download
