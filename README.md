@@ -38,3 +38,4 @@ Feel free to download our app and login with your Spotify Account to try it out 
 Any concerns or problems feel free to reach out and contact me and I can help address any issues that you maybe facing. I am always here and happy to help 😀.
 
 ## 🤝 Report a problem & Feedback
+Feel free to file a new issue with a respective title and description on the repository. If you already found a solution to your problem, we would love to review your pull request!
