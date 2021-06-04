@@ -12,17 +12,17 @@
 <p align="center">
   <a ref="#Introduction">Introduction</a> •
   <a ref="#key-features">Key Features</a> •
-  <a ref="#how-to-use">How To Use</a> •
   <a ref="#download">Download</a> •
-  <a ref="#credits">Credits</a> •
-  <a ref="#related">Related</a> •
-  <a ref="#license">License</a>
+  <a ref="#Questions">Questions</a> •
+  <a ref="#Problem">Report a problem & Feedback</a> 
+
 </p>
 
 ![screenshot](https://github.com/justinkwan20/MusicMoji/blob/master/MusicMoji.png)
 
 ## 👋 Introduction
 Our Android application is designed to have the user experience music in a different way. MusicMoji combines displaying the lyrics of the song with corresponding emoticons to provide an interactive way to enjoy the music you're listening to. An additional features include translation of lyrics in different languages to provide an interactive way to learn a different language.
+
 ## 🔑 Key Features
 
 * Listen to your favorite songs on Spotify
@@ -31,3 +31,10 @@ Our Android application is designed to have the user experience music in a diffe
 * Emoticons in place of lyrics to have a more interactive way of enjoying your music
 * Feel free to use our app at your next Karaoke night
 
+## 📲 Download
+Feel free to download our app and login with your Spotify Account to try it out and its totally FREE!
+
+## 📬 Questions
+Any concerns or problems feel free to reach out and contact me and I can help address any issues that you maybe facing. I am always here and happy to help 😀.
+
+## 🤝 Report a problem & Feedback
