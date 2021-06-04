@@ -31,9 +31,11 @@ Our Android application is designed to have the user experience music in a diffe
 * Emoticons in place of lyrics to have a more interactive way of enjoying your music
 * Feel free to use our app at your next Karaoke night
 
-![image alt >]()
-![image alt <]()
-![image alt ><]()
+<p float="left">
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/titleScreen.png" width="20%" />
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/example%20copy.png" width="20%" /> 
+  <img src="https://github.com/justinkwan20/MusicMoji/blob/master/languageNew.png" width="20%" />
+</p>
 
 ## 📲 Download
 Feel free to download our app and login with your Spotify Account to try it out and its totally FREE!
