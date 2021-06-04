@@ -18,7 +18,7 @@
   <a href="#license">License</a>
 </p>
 
-
+![screenshot](https://github.com/justinkwan20/MusicMoji/blob/master/MusicMoji.png)
 
 ## 🔑 Key Features
 
