@@ -11,12 +11,12 @@
 
 <p align="center">
   <a ref="#Introduction">Introduction</a> •
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a ref="#key-features">Key Features</a> •
+  <a ref="#how-to-use">How To Use</a> •
+  <a ref="#download">Download</a> •
+  <a ref="#credits">Credits</a> •
+  <a ref="#related">Related</a> •
+  <a ref="#license">License</a>
 </p>
 
 ![screenshot](https://github.com/justinkwan20/MusicMoji/blob/master/MusicMoji.png)
