@@ -10,7 +10,7 @@
 <h4 align="center">MusicMoji is a app designed to enjoy music with emoticons 😀.</h4>
 
 <p align="center">
-  <a href="#Introduction">Introduction</a> •
+  <a ref="#Introduction">Introduction</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
