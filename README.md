@@ -46,3 +46,10 @@ Any concerns or problems feel free to reach out and contact me and I can help ad
 
 ## 🤝 Report a problem & Feedback
 Feel free to file a new issue with a respective title and description on the repository. If you already found a solution to your problem, we would love to review your pull request!
+
+## 🔧 How it works
+- Login and Authentication is through Spotify Api and signing into user's Account.
+- The lyrics are retrieved through ApiSeeds lyrics which allowed retrieval of lyrics based of song title and artist which was obtained through Spotify.
+- The emoji's were parsed though the lyrics and the use of a java library which matches corresponding emoji's to the specific words we wanted.
+- Translation as done through IBM Watson Translation API and we translated from the language which lyrics were given to the target language. 
+- Some songs used for demonstration purposes and to show some sample songs were stored using a firebase database. 
