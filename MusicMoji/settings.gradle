@@ -1,0 +1,2 @@
+rootProject.name='MusicMoji'
+include ':app', ':spotify-app-remote'
